@@ -1,5 +1,12 @@
 ### Hi there 🙋‍♂️
 
+I'm a data scientiest with [The LEGO Group](https://www.lego.com/en-us) where I build fun data projects to understand how LEGO users interact with our products and respond to our marketing. On my GitHub, you'll find silly projects with LEGO, dinosaur, and pop culture data.
+
+I get distracted easily, but I’m currently working on:
+ - 🧱 an update to [brickr](brickr.org) to build mosaics from LEGO Art sets
+ - 📊 a ggplot2 extension to make plots look like LEGO bricks
+ - 🦕 version 2 of a Twitter bot to generate dinosaurs. This is my go-to project for learning new tools.
+
 <!--
 **ryantimpe/ryantimpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
